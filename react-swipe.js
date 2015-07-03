@@ -41,6 +41,7 @@
       speed           : React.PropTypes.number,
       auto            : React.PropTypes.number,
       continuous      : React.PropTypes.bool,
+      disableTouch    : React.PropTypes.bool,
       disableScroll   : React.PropTypes.bool,
       stopPropagation : React.PropTypes.bool,
       callback        : React.PropTypes.func,
